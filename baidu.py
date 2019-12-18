@@ -28,3 +28,4 @@ def baidu(type,path):
 
 if __name__ == '__main__':
     print(baidu('动物','./dog.jpg'))
+啦啦啦
